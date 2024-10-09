@@ -38,12 +38,14 @@ contract MyNewToken {
 
 }
 
-4. Compile and run the project
+4.Compile and run the project
 
 5.Deploy the project
 
 Note: If 0.8.26 version is having issues for you, try using other versions.
 
 Author
+
 Luis Miguel C. Dela Cruz
+
 202110441@fit.edu.ph
